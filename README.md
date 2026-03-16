@@ -1,6 +1,6 @@
 # C1-MACHINE-LEARNING-FOUNDATIONS
 
-**Hosted by Google Developer Group at FIU**  
+**Hosted by CAHSI at FIU in collaboration Google Developer Group at FIU**  
 **Worldwide | All Majors | All Universities**
 
 A beginner-friendly workshop series for students who want to start learning machine learning from zero in a simple, practical, and fun way.
