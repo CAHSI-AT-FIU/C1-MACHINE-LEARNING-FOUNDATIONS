@@ -20,16 +20,11 @@ This series is designed to feel approachable:
 ## Updates, event details, and access info
 See: **https://CAHSIatFIU-calendar.vercel.app**
 
-## What is in this repository
-
-- [Week 1 Workshop: Getting Started with Google Colab](./week-1-google-colab-workshop.md)
-- [Workshop Series Overview](./workshop-series-overview.md)
-- [Week 1 Slides Draft](./slides-week-1-draft.md)
-
 ## Workshop roadmap
 
 ### Week 1 — Getting Started with Google Colab
 Introduction to notebooks, code cells, text cells, simple Python practice, and a first tiny dataset.
+Resources here: 
 
 ### Week 2 — 5
 - Stay tuned for more workshops
