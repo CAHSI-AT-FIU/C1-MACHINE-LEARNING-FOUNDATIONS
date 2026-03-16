@@ -18,7 +18,7 @@ This series is designed to feel approachable:
 - learn while building
 
 ## Updates, event details, and access info
-See: **https://gdgatfiu-zoom.vercel.app**
+See: **https://CAHSIatFIU-calendar.vercel.app**
 
 ## What is in this repository
 
